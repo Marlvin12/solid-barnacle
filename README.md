@@ -4,6 +4,11 @@
 
 # Property Data Analytics and Visualization Tool
 
+
+https://github.com/Marlvin12/solid-barnacle/assets/122947486/bcc69fec-a2ea-4544-8139-2fb9421e37d1
+
+
+
 ## Overview
 This web application empowers property owners with the ability to upload, analyze, and visualize their property data efficiently. Through a user-friendly interface, users can input data in CSV format, allowing the app to provide insightful financial metrics, including monthly returns on investment.
 
