@@ -5,7 +5,11 @@
 # Property Data Analytics and Visualization Tool
 
 
-https://github.com/Marlvin12/solid-barnacle/assets/122947486/bcc69fec-a2ea-4544-8139-2fb9421e37d1
+
+https://github.com/Marlvin12/solid-barnacle/assets/122947486/e0c86088-2e2e-4b9a-8960-0241d5d9ce65
+
+
+
 
 
 
